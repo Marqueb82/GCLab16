@@ -62,6 +62,7 @@ public class CountriesApp {
 			i++;
 			System.out.println(i + ". " + c.getName() + " pop is " + c.getPopulation());
 		}
+		System.out.println();
 	}
 
 	/**
@@ -75,6 +76,7 @@ public class CountriesApp {
 			i++;
 			System.out.println(i + ". " + c.getName() + " pop is " + c.getPopulation());
 		}
+		System.out.println();
 	}
 
 	/**
@@ -102,6 +104,7 @@ public class CountriesApp {
 			i++;
 			System.out.println(i + ". " + c.getName() + " pop is " + c.getPopulation());
 		}
+		System.out.println();
 	}
 
 }
