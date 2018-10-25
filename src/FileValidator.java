@@ -13,7 +13,7 @@ public class FileValidator {
 		System.out.println(prompt);
 		try {
 			int num = scnr.nextInt();
-			while (num < 0 || num > 3) {
+			while (num < 1 || num > 3) {
 				System.out.println("Choice are 1, 2 or 3. Re-enter: ");
 				num = scnr.nextInt();
 			}
