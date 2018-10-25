@@ -1,0 +1,8 @@
+Afghanistan		35530000
+Bahamas		395361
+China		1384688986
+United Kingdom		66020000
+United States		329256465
+Columbia		49070000
+Brazil		208846892
+Japan		126168156
